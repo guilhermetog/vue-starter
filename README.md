@@ -1,24 +1,10 @@
-# vue-starter
+VUE STARTER
 
-## Project setup
-```
-yarn install
-```
+O que é?
+Um boilerplate para inicialização de um projeto VUEJS 3
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Já tem configurado:
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Vue Router
+Tailwind CSS
+Material Icons offline
